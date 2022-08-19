@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zachrp8
-- 👀 I’m interested in Backend Development. Frontend Web Development is also interesting to me, but I just do not know enough about it currently.
-- 🌱 I’m currently learning C++, SQL, and Python.
-- 💞️ I’m looking to collaborate on various projects to gain experience in the different fields and gain an idea of what I would like to do in the future.
+- 👀 I’m interested in fullstack development
+- 🌱 I’m currently learning CSS and Javascript
+- 💞️ I’m looking to collaborate on various projects to gain experience in the different fields and gain an idea of what I would like to do in the future
 - 📫 You can reach me at zparkhurst11@gmail.com
