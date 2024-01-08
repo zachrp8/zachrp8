@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zach
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning CSS and Javascript while working at Dick's Sporting Goods
+- 🌱 I’m currently working with Next.Js and server components primarily
 - 💞️ I have previous experience in CPP and SQL
 - 📫 You can reach me at zparkhurst11@gmail.com
